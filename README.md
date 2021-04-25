@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Hi I am Jinmay Jhaveri (a.k.a BorrisX), 15 year old junior full stack web dev. (P.S. soon to be senior). I am game dev enthusiastic and a Potter head. I am the founder and CEO of JCorp that primarily focuses on improving DX of Vue developers. I am a staunch believer in the tagline "Don't be Dinesh!"
+    
 <!--
 **Borrus-sudo/Borrus-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
