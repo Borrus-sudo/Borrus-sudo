@@ -1,8 +1,8 @@
 ### Hi there 👋
-Hi I am Jinmay Jhaveri (a.k.a BorrisX), 15 year old junior full stack web dev. (P.S. soon to be senior). I am game dev enthusiastic and a Potter head. I am the founder and CEO of JCorp that primarily focuses on improving DX of Vue developers. I am a staunch believer in the tagline "Don't be Dinesh!"
-🔭 I’m currently working on vue-generator-graph(not yet open sourced).
-🌱 I’m currently learning advanced Typescript and Elixir.
-⚡ Fun fact:Open a repo and append '1s' after github and before .com in the URL to get the VS Code view of the repo
+Hi I am Jinmay Jhaveri (a.k.a BorrisX), 15 year old junior full stack web dev. (P.S. soon to be senior). I am game dev enthusiastic and a Potter head. I am the founder and CEO of JCorp that primarily focuses on improving DX of Vue developers. I am a staunch believer in the tagline "Don't be Dinesh!".
+<br/>🔭 I’m currently working on vue-generator-graph(not yet open sourced).
+<br/>🌱 I’m currently learning advanced Typescript and Elixir.
+<br/>⚡ Fun fact:Open a repo and append '1s' after github and before .com in the URL to get the VS Code view of the repo
 <!--
 **Borrus-sudo/Borrus-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
