@@ -4,6 +4,7 @@ Hi I am JSGandalf (a.k.a BorrisX or Borrus-sudo), 15 year old junior full stack 
 <br/>🌱 I’m currently learning Rust.
 <br/>😄 Pronouns:he/him
 <br/>⚡ Fun fact:Open a repo and append '1s' after github and before .com in the URL to get the VS Code view of the repo
+<br/>📫 How to reach me: BorrisX#2830 on discord
 <!--
 **Borrus-sudo/Borrus-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
