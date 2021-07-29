@@ -1,6 +1,6 @@
 ### Hi there 👋
 Hi I am JSGandalf (a.k.a BorrisX or Borrus-sudo), 15 year old junior full stack web dev. (P.S. soon to be senior). I am game dev enthusiastic and a Potter head. I am the founder and CEO of JCorp that primarily focuses on improving DX of Vue developers. I am a staunch believer in the tagline "Don't be Dinesh!".
-<br/>🔭 I’m currently working on vue-generator-graph.
+<br/>🔭 I’m currently gonna work on a long term project which I hope gets a surrounding community.
 <br/>🌱 I’m currently planning to learn Golang.
 <br/>😄 Pronouns:he/him
 <br/>⚡ Fun fact:Open a repo and append '1s' after github and before .com in the URL to get the VS Code view of the repo
