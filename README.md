@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![JSGandalf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Borrus-sudo&show_icons=true&theme=vue-dark)
+![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=Borrus-sudo&repos=jsgandalf,vue-generator-graph,awesome-stack&theme=monokai)
