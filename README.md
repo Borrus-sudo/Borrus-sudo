@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![JSGandalf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Borrus-sudo&show_icons=true&theme=monokai)
+![JSGandalf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Borrus-sudo&show_icons=true&theme=dracula)
 <br/>
-![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=Borrus-sudo&repos=jsgandalf,vue-generator-graph,awesome-stack&theme=bear)
+![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=Borrus-sudo&repos=jsgandalf,vue-generator-graph,awesome-stack&theme=dracula)
 
