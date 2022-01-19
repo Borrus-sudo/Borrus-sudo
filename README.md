@@ -1,6 +1,7 @@
 ### Hi there  <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:5px;" height="25px">
 ```bash
-~/JSGandalf cat JSGandalf
+~/TSGandalf 
+$ cat TSGandalf.exe
 Hey I am JSGandalf, pleased to meet you!
 ```
 <!--
