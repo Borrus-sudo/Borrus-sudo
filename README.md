@@ -1,11 +1,8 @@
 ### Hi there  <img src="https://github.com/Andy-Python-Programmer/Andy-Python-Programmer/blob/master/hello.gif" style="margin-top:5px;" height="25px">
-Hi I am JSGandalf (a.k.a BorrisX or Borrus-sudo), 15 year old junior full stack web dev. (P.S. soon to be senior). I am game dev enthusiastic and a Potter head. I am a staunch believer in the tagline "Don't be Dinesh!".
-<br/>🔭 I’m currently planning to work on a long term project which I hope gets a surrounding community.
-<br/>🌱 I’m currently planning to learn Golang.
-<br/>😄 Pronouns:he/him
-<br/>⚡ Fun fact:Open a repo and append '1s' after github and before .com in the URL to get the VS Code view of the repo
-<br/>📫 How to reach me: BorrisX#2830 on discord
-<br/>(P.S.) Please mind my commit messages 😅
+```bash
+~/JSGandalf cat JSGandalf
+Hey I am JSGandalf, pleased to meet you!
+```
 <!--
 **Borrus-sudo/Borrus-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
