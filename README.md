@@ -2,7 +2,7 @@
 ```bash
 ~/TSGandalf 
 $ cat TSGandalf.exe
-Hey I am JSGandalf, pleased to meet you!
+Hey I am TSGandalf, pleased to meet you!
 ```
 <!--
 **Borrus-sudo/Borrus-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
